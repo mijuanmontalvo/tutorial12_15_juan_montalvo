@@ -1,7 +1,4 @@
 <?php
 
-$heading= 'Cantact Us';
-
-
-
+$heading = "Contact Us";
 require "views/contact.view.php";
